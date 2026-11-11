@@ -1,4 +1,4 @@
-THƯ MỤC MINH CHỨNG SỬ DỤNG AI (Y6 - ĐIỂM A)
+# THƯ MỤC MINH CHỨNG SỬ DỤNG AI (Y6 - ĐIỂM A)
 Sinh viên lưu các file ghi chép quá trình làm việc với AI vào thư mục này. Mỗi file tương ứng với một giai đoạn:
 
 01_test_design_ai.md: Dùng AI + RAG sinh Test Plan & Test Case.
